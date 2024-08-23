@@ -7,12 +7,15 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-E2E-EBAC-EM12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-EBAC-UI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-API-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMMorais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rafaelm-morais/)
 
 
 <!--
