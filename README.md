@@ -1,5 +1,17 @@
 ### Ola 👋
 
+### Sobre
+Olá, sou Rafael, sou apaixonado por tecnologia e por automação de teste de software. Gosto muito de trabalhar em equipe, tenho certa facilidade em aprender e busco sempre estar aprimorando minhas habilidade!
+Estou sempre aberto a desafios e novas oportunidades!
+
+--> Testes manuais
+--> Testes automatizados web (cucumber, cypress)
+--> Testes de API (postman)
+
+Habilidades interpessoais
+
+--> Pró ativo, aprendizado rápido, comunicação, detalhista, organizado
+
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMMorais&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
