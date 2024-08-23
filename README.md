@@ -7,7 +7,8 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-E2E-EBAC-EM12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-EBAC-UI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-API-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
