@@ -4,9 +4,11 @@
 Olá, sou Rafael, sou apaixonado por tecnologia e por automação de teste de software. Gosto muito de trabalhar em equipe, tenho certa facilidade em aprender e busco sempre estar aprimorando minhas habilidade!
 Estou sempre aberto a desafios e novas oportunidades!
 
+### Habilidades Técnicas
+
 --> Testes manuais em ambiente de desenvolvimento, Testes automatizados web (cucumber, cypress) e Testes de API (postman)
 
-Habilidades interpessoais
+### Habilidades interpessoais
 
 --> Pró ativo, aprendizado rápido, comunicação, detalhista, organizado
 
