@@ -20,6 +20,7 @@ Estou sempre aberto a desafios e novas oportunidades!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-E2E-EBAC-EM12&theme=dark)](https://github.com/RafaelMMorais/Teste-E2E-EBAC-EM12.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=Teste-API-EBAC&theme=dark)](https://github.com/RafaelMMorais/Teste-API-EBAC.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMMorais&repo=EBAC-Mod24-Exercicio&theme=dark)](https://github.com/RafaelMMorais/EBAC-Mod24-Exercicio.git)
 
 ### Linguagens utilizadas
 
