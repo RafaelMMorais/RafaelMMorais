@@ -6,7 +6,7 @@ Estou sempre aberto a desafios e novas oportunidades!
 
 ### Habilidades Técnicas
 
---> Testes manuais em ambiente de desenvolvimento, Testes automatizados web (cucumber, cypress) e Testes de API (postman)
+--> Testes manuais em ambiente de desenvolvimento, Testes automatizados web (cucumber, cypress), Testes de API (postman), Testes de Performance (Jmeter) e SQL (Iniciando)
 
 ### Habilidades interpessoais
 
